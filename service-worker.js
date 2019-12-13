@@ -9,7 +9,7 @@
     '/buildpass/index.html',
     '/buildpass/style/style.css',
     '/buildpass/style/icon.ico',
-    '/buildpass/style/key.png',
+    '/buildpass/style/keyicon.png',
     '/buildpass/js/clipboard.min.js',
     '/buildpass/js/index.js',
     '/buildpass/js/crypto-js.min.js'
